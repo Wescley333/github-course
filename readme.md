@@ -3,6 +3,7 @@
 Arquivo da aula de Git - github
 Este e um repositorio teste para ensinar como o git funciona
 
+# Lista simples de comandos do Git
 Comandos:
 
     git status
@@ -22,4 +23,4 @@ Comandos:
     git reset --mixed
     git reset --hard
 
-# Lista simples de comandos do Git
+
