@@ -27,6 +27,8 @@ Comandos:
     git branch -D testing # deletar banch
     git config --global alias.s status
     
+    git tag -a 1.0.0 -m "Readme  finalizado"
+
     
 
 
