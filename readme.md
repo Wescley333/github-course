@@ -25,6 +25,8 @@ Comandos:
     git checkout -b "nome-do-branch"
     git branch # Listar branch
     git branch -D testing # deletar banch
+    git config --global alias.s status
+    
     
 
 
