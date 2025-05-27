@@ -6,6 +6,7 @@ Este e um repositorio teste para ensinar como o git funciona
 # Lista simples de comandos do Git
 Comandos:
 
+    git push origin main
     git status
     git add 
     git commit -m "seu comentario aqui"
@@ -26,7 +27,7 @@ Comandos:
     git branch # Listar branch
     git branch -D testing # deletar banch
     git config --global alias.s status
-    
+    git push origin main --tags
     git tag -a 1.0.0 -m "Readme  finalizado"
 
     
