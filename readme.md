@@ -21,6 +21,10 @@ Comandos:
     git reset HEAD [nome-arquivo] # desfazer o checkout
     git reset --soft
     git reset --mixed
-    git reset --hard
+    git reset --hardbran
+    git checkout -b "nome-do-branch"
+    git branch # Listar branch
+    git branch -D testing # deletar banch
+    
 
 
