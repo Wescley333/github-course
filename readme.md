@@ -4,6 +4,7 @@ Arquivo da aula de Git - github
 Este e um repositorio teste para ensinar como o git funciona
 
 Comandos:
+
     git status
     git add 
     git commit -m "seu comentario aqui"
