@@ -3,11 +3,11 @@
 
 Reposítorio para armazenar resumos sobre Git e GitHub do curso [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/).
 
-## 📒 Documentação
+## 📒 Documentação:
  - [Documentação Git](https://git-scm.com/doc)
  - [Documentação GitHub](https://docs.github.com/pt)
 
-## 💻 Resumos das aulas
+## 💻 Resumos das aulas:
 
 ```git push origin main``` Envia (publica) as alterações locais para o repositório remoto na branch main.
 
