@@ -54,3 +54,5 @@ Reposítorio para armazenar resumos sobre Git e GitHub do curso [Git e Github pa
 ```git push origin main --tags``` Envia a branch main e todas as tags para o repositório remoto.
 
 ```git tag -a 1.0.0 -m "Readme finalizado"``` Cria uma tag anotada chamada 1.0.0 com mensagem.
+
+```gitignore``` Arquivo de configuração que define quais arquivos ou pastas devem ser ignorados pelo Git (não versionados).
